@@ -1,0 +1,21 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("gacha online❕", "made by mr rake")
+
+local A2tab = DrRayLibrary.newTab("words🤬", "made by mr rake")
+local A1tab = DrRayLibrary.newTab("scripts hub📜", "made by mr rake")
+
+A1tab.newButton("fling📜", "made by mrrake!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/Fling%20GUI"))()
+end)
+
+A1tab.newButton("fly📜", "made by mr rake old fly!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/brolamthebete/script-fly/main/script%20fly"))()
+end)
+
+A1tab.newButton("lnfinite yield📜", "subscribe bitch!", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+A2tab.newButton("Chat bypassed🤬", "chat bypassed by mrrake!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ChainGotStucked/a55af82d82574/main/REAL_MENACE"))()
+end)
